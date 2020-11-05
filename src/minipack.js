@@ -26,6 +26,8 @@
  * and others are skipped to make this example as simple as possible.
  */
 
+// 创建一个依赖关系图，将所有的模块打包在一起
+
 const fs = require('fs');
 const path = require('path');
 const babylon = require('babylon');
